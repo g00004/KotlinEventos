@@ -4,6 +4,14 @@
 
 Este repositorio contiene un proyecto de aplicación Android desarrollado en Kotlin. Sigue estos pasos para ejecutar el proyecto en tu entorno local utilizando Android Studio.
 
+## Porcentaje de avance: 45% 
+Integrantes 
+
+- Enma Sofia López Rojas			LR230079 
+- Kevin Enrique Martínez Martínez	MM230084 
+- José Gerardo Marroquín Vásquez	MV230090 
+ 
+
 ## Requisitos previos
 
 Asegúrate de tener instalado lo siguiente:
